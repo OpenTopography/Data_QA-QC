@@ -2,7 +2,7 @@
 [![NSF-1948994](https://img.shields.io/badge/NSF-1948994-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948994)
 [![NSF-1948857](https://img.shields.io/badge/NSF-1948857-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948857)
 
-#+TITLE: OT QA/QC Utility Tools
+OT QA/QC Utility Tools
 
 *  Summary
 -  This repo consists of python scripts and templates to better automate
